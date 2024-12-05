@@ -33,6 +33,24 @@ h2{
     border-radius: 15%;
 }
 
+.Affinity img {
+    width: 300px;
+    height: 300px;
+    margin: 10px;
+    border: 2px solid rgb(255, 255, 255);
+    display: block;
+    margin: auto;
+    
+}
+.Affinity {
+    width: 25%;
+    margin: 15px;
+    padding: 20px 10px;
+    background: #42f5b3;
+    border-radius: 15%;
+}
+
+
 .About{
     display:flex;
     flex-wrap: wrap;
