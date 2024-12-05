@@ -13,16 +13,21 @@ h2{
     color: #00bfff;
     font-family: 'Times New Roman', Times, serif;
 }
-.Projects {
-    display: flex;
-    flex-wrap: wrap;
+.Projects img {
+    width: 300px;
+    height: 300px;
+    margin: 10px;
+    border: 2px solid rgb(255, 255, 255);
+    display: block;
+    margin: auto;
+    
 }
 .Project{
     width: 25%;
     margin: 15px;
     padding: 20px 10px;
     background: #42f5b3;
-    border-radius: 20%;
+    border-radius: 15%;
 }
 
 .About{
