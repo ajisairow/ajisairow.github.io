@@ -13,7 +13,7 @@ h2{
     color: #00bfff;
     font-family: 'Times New Roman', Times, serif;
 }
-.Projects img {
+.Project img {
     width: 300px;
     height: 300px;
     margin: 10px;
@@ -22,7 +22,7 @@ h2{
     margin: auto;
     
 }
-.Project{
+.Project img{
     width: 25%;
     margin: 15px;
     padding: 20px 10px;
