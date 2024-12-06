@@ -31,6 +31,7 @@ h2{
     padding: 20px 10px;
     background: #EC7744;
     border-radius: 15%;
+    text-wrap:wrap;
 }
 
 .Affinity img {
