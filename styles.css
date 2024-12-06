@@ -8,12 +8,12 @@ body{
 }
 h1{
     text-align:center;
-    color: blue;
+    color: #995CD0;
     font-family: Arial, Helvetica, sans-serif;  
 }
 h2{
     text-align: left;
-    color: #00bfff;
+    color: #8EDF5F;
     font-family: 'Times New Roman', Times, serif;
 }
 .Project img {
@@ -29,7 +29,7 @@ h2{
     width: 25%;
     margin: 15px;
     padding: 20px 10px;
-    background: #42f5b3;
+    background: #EC7744;
     border-radius: 15%;
 }
 
@@ -46,7 +46,7 @@ h2{
     width: 25%;
     margin: 15px;
     padding: 20px 10px;
-    background: #42f5b3;
+    background: #EC7744;
     border-radius: 15%;
 }
 
