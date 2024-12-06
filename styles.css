@@ -73,4 +73,17 @@ h2{
     margin: auto;
     line-height: 125%;
 }
- 
+.Skills{
+    display:flex;
+    flex-wrap:wrap;
+    margin-right: 100px;
+    margin-left: 100px;
+    justify-content: center;
+    }
+.Skills p {
+    width: 100%;
+    text-align:left;
+    margin:auto;
+    line-height: 125%;
+    font-family: 'Times New Roman', Times, serif;
+    }
