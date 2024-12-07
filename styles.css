@@ -1,8 +1,5 @@
 body{
-    background-image: url('Images/winXPAzul.png');
-    background-color:bisque;
-    background-size: 1080px 706px;
-    background-repeat: no-repeat;
+    background: color #201d30;;
     font-family: 'Times New Roman', Times, serif;
     margin: 40px
 }
